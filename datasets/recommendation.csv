@@ -1,0 +1,89 @@
+,Recommended,Base Product
+0,bread,packaged cheese
+1,yogurt,packaged cheese
+2,chips pretzels,packaged cheese
+3,milk,packaged cheese
+4,packaged vegetables fruits,packaged cheese
+5,packaged vegetables fruits,fresh fruits
+6,fresh vegetables,fresh fruits
+7,yogurt,fresh fruits
+8,soy lactosefree,fresh fruits
+9,bread,fresh fruits
+10,packaged vegetables fruits,fresh vegetables
+11,packaged cheese,fresh vegetables
+12,fresh fruits,fresh vegetables
+13,soy lactosefree,fresh vegetables
+14,bread,fresh vegetables
+15,fresh vegetables,fresh herbs
+16,packaged vegetables fruits,fresh herbs
+17,fresh fruits,fresh herbs
+18,fresh vegetables,canned meals beans
+19,fresh fruits,cream
+20,packaged vegetables fruits,fresh dips tapenades
+21,fresh vegetables,fresh dips tapenades
+22,fresh fruits,fresh dips tapenades
+23,packaged cheese,chips pretzels
+24,yogurt,chips pretzels
+25,packaged vegetables fruits,chips pretzels
+26,fresh fruits,chips pretzels
+27,fresh vegetables,chips pretzels
+28,fresh vegetables,other creams cheeses
+29,fresh fruits,other creams cheeses
+30,bread,milk
+31,yogurt,milk
+32,packaged cheese,milk
+33,fresh fruits,milk
+34,packaged vegetables fruits,milk
+35,fresh fruits,spreads
+36,bread,packaged cheese
+37,yogurt,packaged cheese
+38,chips pretzels,packaged cheese
+39,milk,packaged cheese
+40,packaged vegetables fruits,packaged cheese
+41,milk,yogurt
+42,packaged cheese,yogurt
+43,bread,yogurt
+44,packaged vegetables fruits,yogurt
+45,soy lactosefree,yogurt
+46,fresh vegetables,canned jarred vegetables
+47,fresh vegetables,eggs
+48,packaged vegetables fruits,eggs
+49,fresh fruits,eggs
+50,packaged vegetables fruits,frozen produce
+51,fresh vegetables,frozen produce
+52,fresh fruits,frozen produce
+53,fresh vegetables,packaged vegetables fruits
+54,packaged cheese,packaged vegetables fruits
+55,fresh fruits,packaged vegetables fruits
+56,yogurt,packaged vegetables fruits
+57,soy lactosefree,packaged vegetables fruits
+58,packaged vegetables fruits,refrigerated
+59,fresh fruits,refrigerated
+60,fresh vegetables,refrigerated
+61,packaged vegetables fruits,soy lactosefree
+62,yogurt,soy lactosefree
+63,fresh vegetables,soy lactosefree
+64,fresh fruits,soy lactosefree
+65,yogurt,water seltzer sparkling water
+66,packaged vegetables fruits,water seltzer sparkling water
+67,fresh fruits,water seltzer sparkling water
+68,fresh vegetables,soup broth bouillon
+69,fresh fruits,soup broth bouillon
+70,fresh fruits,energy granola bars
+71,packaged vegetables fruits,crackers
+72,fresh fruits,crackers
+73,fresh vegetables,crackers
+74,fresh fruits,cereal
+75,fresh fruits,hot dogs bacon sausage
+76,packaged cheese,bread
+77,milk,bread
+78,yogurt,bread
+79,packaged vegetables fruits,bread
+80,fresh vegetables,bread
+81,fresh fruits,juice nectars
+82,fresh vegetables,ice cream ice
+83,fresh fruits,ice cream ice
+84,fresh fruits,nuts seeds dried fruit
+85,packaged vegetables fruits,lunch meat
+86,fresh vegetables,lunch meat
+87,fresh fruits,lunch meat
